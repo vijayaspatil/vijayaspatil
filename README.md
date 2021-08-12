@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @vijayaspatil
+- 👀 I’m interested in Machine Learning and AI
